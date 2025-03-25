@@ -1,0 +1,19 @@
+{
+  "version": "0.2.1-beta",
+  "notes": "Beta Test",
+  "pub_date": "2025-03-25",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
